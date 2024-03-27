@@ -1,10 +1,8 @@
-I'm an NLP engineer. I like text representation. I'm amazed by LLM.
-
 💼 **Projects**
 
 | Project | Notebook   |
 | ----- | ------- |
-| project 1  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TsDKNo2riwVmU55gjuBgB1AXVtRRfRHW) |
+| project 1  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tXeQF3EkRe3FZnS16lqqCqhxyT4fTybR) |
 | an    | example |
 | table | with    |
 | two   | columns |
