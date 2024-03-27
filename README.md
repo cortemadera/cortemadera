@@ -7,7 +7,7 @@
 | neutral translator | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11JavIBeOXMbViCwRFgibKycwOxM07kmJ) |
 
 
-🤗 **Datasets
+🤗 **Datasets**
 
 
 <!--
