@@ -4,7 +4,7 @@
 | ----- | ------- |
 | chat engine | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tXeQF3EkRe3FZnS16lqqCqhxyT4fTybR) |
 | negation detection | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_1uRKtZk9JKTRjhG_VYfp9MQ7WTrXCNj) |
-| translation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11JavIBeOXMbViCwRFgibKycwOxM07kmJ)    |
+| neutral translator|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11JavIBeOXMbViCwRFgibKycwOxM07kmJ)|
 
 
 🤗 **Datasets
