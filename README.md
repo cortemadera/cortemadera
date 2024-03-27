@@ -1,4 +1,4 @@
-I'm an NLP engineer. I'm curious about text representation.
+I'm an NLP engineer. I like text representation. I'm amazed by LLM.
 
 💼 **Projects**
 
