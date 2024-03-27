@@ -4,7 +4,7 @@ I'm an NLP engineer. I'm curious about text representation.
 
 | Project | Notebook   |
 | ----- | ------- |
-| project 1  | [Open in Colab ](https://colab.research.google.com/drive/1TsDKNo2riwVmU55gjuBgB1AXVtRRfRHW)    |
+| project 1  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TsDKNo2riwVmU55gjuBgB1AXVtRRfRHW) |
 | an    | example |
 | table | with    |
 | two   | columns |
